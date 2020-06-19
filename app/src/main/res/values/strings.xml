@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadCastReceivers</string>
+    <string name="toast_permission_description">Toast Permission Description</string>
+</resources>
